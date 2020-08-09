@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jim&#39;s Blog</title>
-    <link>/</link>
-    <description>Recent content on Jim&#39;s Blog</description>
+    <title>test on Jim&#39;s Blog</title>
+    <link>/categories/test/</link>
+    <description>Recent content in test on Jim&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>jamesfelps@gmail.com (Jim Felps)</managingEditor>
     <webMaster>jamesfelps@gmail.com (Jim Felps)</webMaster>
     <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <author>jamesfelps@gmail.com (Jim Felps)</author>
       <guid>/post/first-post/</guid>
       <description>The picture above several weeks ago at Smithville Lake. Since the lockdown, one of my family’s biggest challenges has been to keep our kids active while also being safe. We don’t have a boat to get out on the lake, but through a friend we were able to find a secluded beach where we can bring some snacks, relax in a beach chair, and float on the lake for a few hours.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>jamesfelps@gmail.com (Jim Felps)</author>
-      <guid>/page/about/</guid>
-      <description>I&amp;rsquo;m currently a financial analyst at Bluescope Buildings North America supporting the enigneering and sales teams by preparing monthly and ad hoc analysis by delivering necessary reporting to guide strategy decisions. I spent the past year designing and implementing a sales and operations planning group and currently lead the bi-monthly meeting with a cross-functional team of business leaders with the purpose of connecting the sales team with production leaders to algin demand capacity with market indicators.</description>
     </item>
     
   </channel>
