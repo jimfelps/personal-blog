@@ -7,7 +7,6 @@ categories:
   - test
 tags:
   - test
-  -to do
 bigimg:
 - desc: 
   src: /img/2020-08-08/forest.jpg
