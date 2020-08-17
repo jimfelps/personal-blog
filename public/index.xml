@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>jamesfelps@gmail.com (Jim Felps)</managingEditor>
     <webMaster>jamesfelps@gmail.com (Jim Felps)</webMaster>
-    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How Frequently Do The Simpsons Repeat Couch Gags?</title>
+      <link>/post/2020-08-17-simpsons/simpsons-couch-gag/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      <author>jamesfelps@gmail.com (Jim Felps)</author>
+      <guid>/post/2020-08-17-simpsons/simpsons-couch-gag/</guid>
+      <description>While trying to figure out what content to include on this site, I decided it might be best to start re-creating visualizations found online. I looked through the subreddit /r/dataisbeautiful to find a visualization, and specifically one done in a language other than R, that I found appealing and the subject matter interesting. I look at this subreddit a few times each month and love the work that people post. I like that this subreddit contains visualizations from people that have been perfecting their craft for years and people just starting out.</description>
+    </item>
     
     <item>
       <title>First Post</title>

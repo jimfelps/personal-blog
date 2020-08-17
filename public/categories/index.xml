@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>jamesfelps@gmail.com (Jim Felps)</managingEditor>
     <webMaster>jamesfelps@gmail.com (Jim Felps)</webMaster>
-    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>python conversion</title>
+      <link>/categories/python-conversion/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      <author>jamesfelps@gmail.com (Jim Felps)</author>
+      <guid>/categories/python-conversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/categories/r/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      <author>jamesfelps@gmail.com (Jim Felps)</author>
+      <guid>/categories/r/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>test</title>
