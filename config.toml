@@ -23,6 +23,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   dateFormat = "2006/01/02"
   commit = false
   rss = true
+  gtm_id = "GTM-53MD7X4"
   comments = true
   readingTime = true
   wordCount = true
